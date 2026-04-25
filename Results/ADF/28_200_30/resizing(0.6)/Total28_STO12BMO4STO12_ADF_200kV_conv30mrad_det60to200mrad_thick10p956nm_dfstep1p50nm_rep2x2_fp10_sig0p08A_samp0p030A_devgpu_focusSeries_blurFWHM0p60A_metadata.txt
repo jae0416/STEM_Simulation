@@ -1,0 +1,13 @@
+input_npy: Total28_STO12BMO4STO12_ADF_200kV_conv30mrad_det60to200mrad_thick10p956nm_dfstep1p50nm_rep2x2_fp10_sig0p08A_samp0p030A_devgpu_focusSeries.npy
+cif_file: Total28_STO12BMO4STO12.cif
+repeat_x: 2
+repeat_y: 2
+scan_center_tile_only: False
+cell_x_A: 3.9127
+cell_y_A: 3.9127
+scan_width_x_A: 7.8254
+scan_width_y_A: 7.8254
+pixel_size_x_A: 0.122271875
+pixel_size_y_A: 0.122271875
+effective_probe_fwhm_A: 0.6
+stack_shape: (9, 64, 64)
