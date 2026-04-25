@@ -1,0 +1,28 @@
+cif_file: Total28_STO12BMO4STO12.cif
+zone_axis: (0, 0, 1)
+edge_label: Mn_L
+Z: 25
+n: 2
+l: 1
+energy_eV: 300000.0
+semiangle_mrad: 60.0
+collection_inner_mrad: 0.0
+collection_outer_mrad: 70.0
+sample_thickness_A: 109.5556
+sample_thickness_nm: 10.95556
+repeat_x: 2
+repeat_y: 2
+slice_thickness_A: 5.0
+exit_planes_every_n_slices: 22
+potential_gpts: 128
+scan_mode: full_supercell
+scan_center_tile_only: False
+scan_gpts: (32, 32)
+scan_start_fractional: (0.0, 0.0)
+scan_end_fractional: (1.0, 1.0)
+defocus_values_A: [0.0, 15.0, 30.0, 45.0, 60.0, 75.0, 90.0, 105.0, 109.5556]
+site_threshold: 0.95
+max_batch: 1
+double_channel: False
+device: cpu
+num_matching_sites: 16
