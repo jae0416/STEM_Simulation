@@ -1,0 +1,14 @@
+cif_file: Total28_STO12NTO4STO12.cif
+energy_eV: 200000.0
+semiangle_mrad: 30
+adf_inner_mrad: 60
+adf_outer_mrad: 200
+sample_thickness_A: 109.5556
+sample_thickness_nm: 10.95556
+probe_extent_A: 20.0
+probe_sampling_profile_A: 0.02
+probe_gpts: 1001
+probe_defocus_values_A: [-109.5556, -99.5556, -89.5556, -79.5556, -69.5556, -59.5556, -49.5556, -39.5556, -29.5556, -19.5556, -9.555599999999998, 0.4444000000000017, 10.444400000000002, 20.4444, 30.4444, 40.4444, 50.4444, 60.4444, 70.4444, 80.4444, 90.4444, 100.4444, 109.5556]
+axial_fwhm_A: 49.44821426239853
+axial_fwhm_nm: 4.944821426239853
+device: gpu
